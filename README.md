@@ -5,7 +5,7 @@ Source Available Customer Experience &amp; Survey Platform. The #1 On-Prem Qualt
 
 ## 💡 Use Cases
 These are the most common end-user use cases for Checkbox:
-- Enterprise Custer Experience (CX) Platform
+- Enterprise Customer Experience (CX) Platform
 - Survey Software 
 - Employee Feedback
 - Product Feedback
