@@ -15,6 +15,11 @@ These are the most common end-user use cases for Checkbox:
 ## 🧠 Checkbox Platform 
 ![alt text](https://github.com/checkboxsurvey/checkbox/blob/main/Screen%20Shot%202022-12-14%20at%2012.59.28%20PM.png "Checkbox Platform Overview")
 
+## 💻 Technology Stack
+- .NET
+- Angular
+- SQL Server
+
 ## 🚀 Getting Started with Checkbox
 - Website: [https://checkbox.com](checkbox.com)
 - API: [https://api.configcat.com/docs/](apidocs.checkbox.com/)
