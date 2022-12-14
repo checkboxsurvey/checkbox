@@ -7,7 +7,7 @@ Enterprise Grade, White-Label Customer Experience &amp; Survey Platform. Run on 
 ![alt text](https://github.com/checkboxsurvey/checkbox/blob/main/Screen%20Shot%202022-12-14%20at%2012.59.28%20PM.png "Checkbox Platform Overview")
 
 ## Getting Started with Checkbox
-Website: [https://checkbox.com](checkbox.com)
-API: [https://api.configcat.com/docs/](apidocs.checkbox.com/)
-Knowledge Base: [https://www.checkbox.com/support/checkbox-7-help-guides/](https://checkbox.com/support)
+- Website: [https://checkbox.com](checkbox.com)
+- API: [https://api.configcat.com/docs/](apidocs.checkbox.com/)
+- Knowledge Base: [https://www.checkbox.com/support/checkbox-7-help-guides/](https://checkbox.com/support)
 
