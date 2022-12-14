@@ -22,6 +22,6 @@ These are the most common end-user use cases for Checkbox:
 
 ## 🚀 Getting Started with Checkbox
 - Website: [https://checkbox.com](checkbox.com)
-- API: [https://api.configcat.com/docs/](apidocs.checkbox.com/)
+- API: [https://apidocs.checkbox.com](https://apidocs.checkbox.com/)
 - Knowledge Base: [https://www.checkbox.com/support/checkbox-7-help-guides/](https://checkbox.com/support)
 
