@@ -21,7 +21,7 @@ These are the most common end-user use cases for Checkbox:
 - SQL Server
 
 ## 🚀 Getting Started with Checkbox
-- Website: [https://checkbox.com](checkbox.com)
+- Website: [https://www.checkbox.com](checkbox.com)
 - API: [https://apidocs.checkbox.com](https://apidocs.checkbox.com/)
 - Knowledge Base: [https://www.checkbox.com/support/checkbox-7-help-guides/](https://checkbox.com/support)
 
